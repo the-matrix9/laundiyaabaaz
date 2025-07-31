@@ -23,7 +23,7 @@ def keep_alive():
 # ─── Bot Config ───────────────────────────────────────────────────
 API_ID = 14050586
 API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
-BOT_TOKEN = "8381216775:AAEyjjTHyvLUm3nBjbYbXrm7K38OPVY0GE4"
+BOT_TOKEN = "8141041824:AAHPI3oA9wTPQ2xSvxJu4tJAKiXpqxu5PKk"
 
 app = Client("info_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
