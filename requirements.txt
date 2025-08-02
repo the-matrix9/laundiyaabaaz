@@ -1,5 +1,4 @@
-asyncio
-flask 
-pyrogram 
-aiohttp
-
+pyrogram
+tgcrypto
+flask
+openai
